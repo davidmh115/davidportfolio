@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Moreno-Hirsch Portfolio</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313//</link>
     <description>Recent content on David Moreno-Hirsch Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
       <language>en-us</language>
-      <lastBuildDate>Wed, 02 Jul 2025 14:49:49 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+      <lastBuildDate>Sun, 06 Jul 2025 16:27:10 -0500</lastBuildDate><atom:link href="http://localhost:1313//index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:1313//about/</link>
       <pubDate>Wed, 02 Jul 2025 11:22:26 -0500</pubDate>
 
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;img src=&#34;http://localhost:1313/me.jpeg&#34; alt=&#34;My profile photo&#34; style=&#34;width:200px; border-radius: 50%;&#34;&gt;
+      <guid>http://localhost:1313//about/</guid>
+      <description>&lt;img src=&#34;http://localhost:1313//me.jpeg&#34; alt=&#34;My profile photo&#34; style=&#34;width:200px; border-radius: 50%;&#34;&gt;
 &lt;p&gt;My name is David Moreno-Hirsch and I am an MSDS student in the SPS Program at Northwestern University. I am also a Research Technologist in the Keck Biophysics Facility at Northwestern on the Evanston Campus.&lt;/p&gt;
 
 &lt;h1 id=&#34;education&#34;&gt;
@@ -28,7 +28,7 @@
   &lt;a href=&#34;#skills&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
 &lt;/h1&gt;
 &lt;p&gt;Python, R, SQL&lt;/p&gt;</description>
-      <content>&lt;img src=&#34;http://localhost:1313/me.jpeg&#34; alt=&#34;My profile photo&#34; style=&#34;width:200px; border-radius: 50%;&#34;&gt;
+      <content>&lt;img src=&#34;http://localhost:1313//me.jpeg&#34; alt=&#34;My profile photo&#34; style=&#34;width:200px; border-radius: 50%;&#34;&gt;
 &lt;p&gt;My name is David Moreno-Hirsch and I am an MSDS student in the SPS Program at Northwestern University. I am also a Research Technologist in the Keck Biophysics Facility at Northwestern on the Evanston Campus.&lt;/p&gt;
 
 &lt;h1 id=&#34;education&#34;&gt;
@@ -47,20 +47,20 @@
     </item>
     <item>
       <title>Resume</title>
-      <link>http://localhost:1313/resume/</link>
+      <link>http://localhost:1313//resume/</link>
       <pubDate>Wed, 02 Jul 2025 14:49:49 -0500</pubDate>
 
-      <guid>http://localhost:1313/resume/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/resume.pdf&#34;&gt;Download Resume&lt;/a&gt;&lt;/p&gt;</description>
-      <content>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/resume.pdf&#34;&gt;Download Resume&lt;/a&gt;&lt;/p&gt;
+      <guid>http://localhost:1313//resume/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313//resume.pdf&#34;&gt;Download Resume&lt;/a&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;a href=&#34;http://localhost:1313//resume.pdf&#34;&gt;Download Resume&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     <item>
       <title>Contact Me</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://localhost:1313//contact/</link>
       <pubDate>Wed, 02 Jul 2025 11:22:40 -0500</pubDate>
 
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>http://localhost:1313//contact/</guid>
       <description>&lt;h1 id=&#34;email&#34;&gt;
   Email
   &lt;a href=&#34;#email&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
