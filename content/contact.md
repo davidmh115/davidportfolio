@@ -3,6 +3,7 @@ date = '2025-07-02T11:22:40-05:00'
 draft = false
 title = 'Contact Me'
 showDate = false
+weight = 3
 +++
 
 # Email
